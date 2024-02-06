@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 77.9 kB Used in GitHub's Storage 
+> 📦 78.0 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2024
  > 
@@ -30,6 +32,49 @@ Here are some ideas to get you started:
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+🌆 Daytime                361 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌃 Evening                303 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌙 Night                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Tuesday                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Wednesday                432 commits         ████████████░░░░░░░░░░░░░   49.83 % 
+Thursday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Saturday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Sunday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               7 hrs 23 mins       █████████████░░░░░░░░░░░░   53.25 % 
+Markdown                 3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+JavaScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 53 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+enigma                   13 hrs 53 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      13 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -47,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2024 04:16:37 UTC
+ Last Updated on 06/02/2024 18:34:40 UTC
 <!--END_SECTION:waka-->
