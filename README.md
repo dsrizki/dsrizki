@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 78.0 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -61,18 +59,18 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 20 mins       ██████████████████░░░░░░░   71.90 % 
-Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               12 hrs 23 mins      ██████████████████░░░░░░░   73.89 % 
+Markdown                 3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-enigma                   12 hrs 58 mins      █████████████████████████   100.00 % 
+enigma                   16 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +90,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2024 18:34:49 UTC
+ Last Updated on 17/02/2024 18:34:37 UTC
 <!--END_SECTION:waka-->
