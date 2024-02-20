@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-155.6%20million%20lines%20of%20code-blue)
 
@@ -61,18 +61,18 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 23 mins      ██████████████████░░░░░░░   73.89 % 
-Markdown                 3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               13 hrs 57 mins      █████████████████████░░░░   83.57 % 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-enigma                   16 hrs 45 mins      █████████████████████████   100.00 % 
+enigma                   16 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 18:34:39 UTC
+ Last Updated on 20/02/2024 18:36:32 UTC
 <!--END_SECTION:waka-->
