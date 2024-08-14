@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C113%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C116%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,16 +59,19 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 27 mins       ██████████████████░░░░░░░   73.14 % 
+TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+enigma                   3 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2024 18:41:42 UTC
+ Last Updated on 14/08/2024 18:41:16 UTC
 <!--END_SECTION:waka-->
