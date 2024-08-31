@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C155%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 78.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,19 +61,19 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               11 hrs 58 mins      █████████████████████████   98.79 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               14 hrs 8 mins       █████████████████████████   98.67 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-enigma                   12 hrs 7 mins       █████████████████████████   100.00 % 
+enigma                   14 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +93,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2024 18:42:46 UTC
+ Last Updated on 31/08/2024 18:40:10 UTC
 <!--END_SECTION:waka-->
