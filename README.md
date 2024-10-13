@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 78.1 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -95,5 +93,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 18:41:59 UTC
+ Last Updated on 13/10/2024 18:42:08 UTC
 <!--END_SECTION:waka-->
