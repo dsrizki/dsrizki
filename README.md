@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C373%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C376%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 78.1 kB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -61,20 +59,20 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 hrs 57 mins      ██████████████████████░░░   86.33 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TypeScript               10 hrs 29 mins      ██████████████████░░░░░░░   71.49 % 
+JavaScript               4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-enigma                   16 hrs 10 mins      █████████████████████████   100.00 % 
+enigma                   14 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dsrizki/dsrizki/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 18:46:47 UTC
+ Last Updated on 19/12/2024 18:44:03 UTC
 <!--END_SECTION:waka-->
